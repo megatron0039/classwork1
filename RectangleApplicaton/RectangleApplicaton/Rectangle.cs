@@ -37,6 +37,7 @@ namespace RectangleApplicaton
     class Square
     {
         //Member variables
+        //globally accessible
         public double length;
         public double width;
 
