@@ -1,0 +1,6 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\TreeLinesOutput\TreeLinesOutput\bin\Debug\TreeLinesOutput.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\TreeLinesOutput\TreeLinesOutput\bin\Debug\TreeLinesOutput.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\TreeLinesOutput\TreeLinesOutput\bin\Debug\TreeLinesOutput.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\TreeLinesOutput\TreeLinesOutput\obj\Debug\TreeLinesOutput.csprojResolveAssemblyReference.cache
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\TreeLinesOutput\TreeLinesOutput\obj\Debug\TreeLinesOutput.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\TreeLinesOutput\TreeLinesOutput\obj\Debug\TreeLinesOutput.pdb

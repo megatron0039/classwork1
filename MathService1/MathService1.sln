@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathService1", "MathService1\MathService1.csproj", "{E48EA5A8-3434-44C0-AE74-F28FB3F53080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathServiceTest App1", "MathServiceTest App1\MathServiceTest App1.csproj", "{F34D4532-376C-48F3-ABD0-1F5C4E63A45D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E48EA5A8-3434-44C0-AE74-F28FB3F53080} = {E48EA5A8-3434-44C0-AE74-F28FB3F53080}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E48EA5A8-3434-44C0-AE74-F28FB3F53080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48EA5A8-3434-44C0-AE74-F28FB3F53080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48EA5A8-3434-44C0-AE74-F28FB3F53080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48EA5A8-3434-44C0-AE74-F28FB3F53080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34D4532-376C-48F3-ABD0-1F5C4E63A45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34D4532-376C-48F3-ABD0-1F5C4E63A45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34D4532-376C-48F3-ABD0-1F5C4E63A45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34D4532-376C-48F3-ABD0-1F5C4E63A45D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

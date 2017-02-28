@@ -1,0 +1,2 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\DebugOne3\DebugOne3\bin\Debug\DebugOne3.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\DebugOne3\DebugOne3\obj\Debug\DebugOne3.csprojResolveAssemblyReference.cache

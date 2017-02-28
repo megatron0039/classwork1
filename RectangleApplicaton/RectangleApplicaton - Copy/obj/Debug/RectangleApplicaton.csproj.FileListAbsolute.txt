@@ -1,0 +1,6 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\RectangleApplicaton\RectangleApplicaton\bin\Debug\RectangleApplicaton.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\RectangleApplicaton\RectangleApplicaton\bin\Debug\RectangleApplicaton.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\RectangleApplicaton\RectangleApplicaton\bin\Debug\RectangleApplicaton.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\RectangleApplicaton\RectangleApplicaton\obj\Debug\RectangleApplicaton.csprojResolveAssemblyReference.cache
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\RectangleApplicaton\RectangleApplicaton\obj\Debug\RectangleApplicaton.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\RectangleApplicaton\RectangleApplicaton\obj\Debug\RectangleApplicaton.pdb

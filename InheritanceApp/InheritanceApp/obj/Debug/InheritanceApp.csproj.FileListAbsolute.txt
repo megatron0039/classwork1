@@ -1,0 +1,6 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\InheritanceApp\InheritanceApp\bin\Debug\InheritanceApp.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.csprojResolveAssemblyReference.cache
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\InheritanceApp\InheritanceApp\obj\Debug\InheritanceApp.pdb

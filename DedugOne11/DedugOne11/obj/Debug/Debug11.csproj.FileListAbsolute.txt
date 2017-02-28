@@ -1,0 +1,2 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\DedugOne11\DedugOne11\bin\Debug\DedugOne11.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\DedugOne11\DedugOne11\obj\Debug\Debug11.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\MathService1\MathServiceTest App1\bin\Debug\MathServiceTest App1.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\MathService1\MathServiceTest App1\bin\Debug\MathServiceTest App1.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\MathService1\MathServiceTest App1\bin\Debug\MathServiceTest App1.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\MathService1\MathServiceTest App1\obj\Debug\MathServiceTest App1.csprojResolveAssemblyReference.cache
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\MathService1\MathServiceTest App1\obj\Debug\MathServiceTest_App1.frmMathService.resources
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\MathService1\MathServiceTest App1\obj\Debug\MathServiceTest_App1.Properties.Resources.resources
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\MathService1\MathServiceTest App1\obj\Debug\MathServiceTest App1.csproj.GenerateResource.Cache
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\MathService1\MathServiceTest App1\obj\Debug\MathServiceTest App1.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\WCF\MathService1\MathServiceTest App1\obj\Debug\MathServiceTest App1.pdb
