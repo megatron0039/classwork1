@@ -104,7 +104,7 @@ namespace RectangleApplicaton
 
         }
 
-
+        //main method is here
         class ExcuteRetangle
         {
             static void Main(string[] args)
