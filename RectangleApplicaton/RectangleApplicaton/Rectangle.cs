@@ -7,7 +7,7 @@ using static System.Console;
 namespace RectangleApplicaton
 {
         //Add classes 1st, collapse all classes not being used.
-        
+        //Line up curly braces.
 
     class Rectangle
     {
@@ -103,7 +103,7 @@ namespace RectangleApplicaton
             }
 
         }
-
+        
         //main method is here
         class ExcuteRetangle
         {
